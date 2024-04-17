@@ -7,8 +7,8 @@ import InfoBar from '../InfoBar/InfoBar';
 import Input from '../Input/Input';
 
 // for local host
-const ENDPOINT = 'http://localhost:5000';
-// const ENDPOINT = 'https://react-chat-socket-application.herokuapp.com';
+// const ENDPOINT = 'http://localhost:5000';
+const ENDPOINT = 'https://chat-back-lc1a.onrender.com/';
 
 let socket;
 
